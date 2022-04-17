@@ -127,7 +127,11 @@ Copied all the variable declarations into the new file.Created another file, nam
 ![06](https://user-images.githubusercontent.com/91284177/163707950-4f44ac17-44c6-445a-9a45-cd66f04d1b91.png)
 
 I logged in to my AWS platform console to confirm if my provisioned infrastrctures (VPC, 2 public subnets) were executed as applied via terraform. it was successfully done. IMAGES 07 & 08.
+
+VPC provisioned
 ![07](https://user-images.githubusercontent.com/91284177/163708183-3c9d818f-b624-4d8d-b8aa-157cbf1cbb2f.png)
+
+The 2 Public subnets provisioned 
 
 ![08](https://user-images.githubusercontent.com/91284177/163708213-b7f624c9-6b52-4243-9c12-b21d0ed3c548.png)
 
